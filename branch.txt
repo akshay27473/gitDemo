@@ -3,6 +3,10 @@ hello1
 hello2
 
 hi1
+<<<<<<< HEAD
 hi2
 
 hi3
+=======
+hi2
+>>>>>>> feature1
