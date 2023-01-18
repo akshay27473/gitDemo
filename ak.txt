@@ -2,8 +2,13 @@ hello this is akshay gupta
 I am from bhairahawa and currently pursuing my B.tech from LPU
 
 i am doing something weird which is not good
+<<<<<<< HEAD
 
 
 I am a feature
 
 I am feature 2
+=======
+hello
+hi
+>>>>>>> 6632d6af8763daf48382d879f07ad4d7cb994e41
